@@ -10,7 +10,7 @@
         alt=""
       />
       <p>
-      Esta es una imagen de prueba
+      Esta es una imagen de prueba1
       </p>
 
 
